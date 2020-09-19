@@ -1,4 +1,4 @@
-#[grantoz.github.io](https://grantoz.github.io)
+# [grantoz.github.io](https://grantoz.github.io)
 
 ## Welcome to GitHub Pages
 

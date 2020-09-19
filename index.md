@@ -2,8 +2,6 @@
 permalink: /
 title: welcome!
 ---
-## [grantoz.github.io](https://grantoz.github.io)
-
 ## Welcome to my personal home page 🙂
 
 ### About me

@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: post
 title: grantoz.github.io - welcome!
 ---
 ## [grantoz.github.io](https://grantoz.github.io)

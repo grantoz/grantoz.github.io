@@ -2,20 +2,16 @@
 permalink: /
 title: welcome!
 ---
-## Welcome to my personal home page 🙂
+## Hi! 🙂🤚
 
 ### About me
 
-I'm a web developer and system architect that lives in beautiful Sydney, Australia.
+I'm a web developer, system architect and sometimes musician that lives in Sydney, Australia.
 
-Professionally, I've been involved in building and fixing web systems for over 20 years, particularly e-commerce systems.   I spend a lot of time looking at things that happen on e-commerce systems, and not enough time writing about them, so this site is an attempt to remedy that situation somewhat.  
-
-Hopefully some of my musings will be of interest to other developers and architects.  And if not, I'm a believer in [the benefits of journalling](https://psychcentral.com/lib/the-health-benefits-of-journaling/) so it may just help me enhance that sense of equilibrium most of us wish for.
+Professionally, I've been involved in building and fixing web systems for over 20 years, particularly e-commerce systems, recently for [Made.com Designs](https://www.made.com).  It's been a fun gig, and it was fun living in London in pre-COVID days, but it's time for something new and more local in 2021.
 
 ### Links
 
-[My LinkedIn Profile](https://www.linkedin.com/in/grant-ozolins-749bb313/)
+Here's a run-down of what I've been doing over the last few years here in [my linkedIn profile](https://www.linkedin.com/in/grant-ozolins-749bb313/).
 
-I write music and play keyboards as a reasonably serious hobby too.  Even though I like my day job a lot, once the music bug has bitten, you never really recover!
-
-[Here are some things I wrote and produced on SoundCloud](https://soundcloud.com/grantoz)
+Also, I write music and play keyboards as a reasonably serious hobby.  Even though I like my day job a lot, once the music bug has bitten, you never really recover. [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz).

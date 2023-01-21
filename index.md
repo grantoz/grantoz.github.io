@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: welcome!
+title: Welcome!
 ---
-## Hi! 🙂🤚
+## Hi There! 🙂🤚
 
-### About me
+### About Me
 
-I'm a web developer, system architect and sometimes musician that lives in Sydney, Australia.
+I'm a developer, system architect and sometimes musician that lives in Sydney, Australia.
 
-Professionally, I've been involved in building and fixing web systems for over 20 years, particularly e-commerce systems, recently for [Made.com Designs](https://www.made.com).  It's been a fun gig, and it was fun living in London in pre-COVID days, but it's time for something new and more local in 2021.
+I've been building and fixing web systems for over 20 years now, particularly in e-commerce, recently as E-commerc Architect for [Made.com Designs](https://www.made.com) (now sadly now no more). Working at scale in an environment that combined both macro and micro services was fun and educational.  London was great too, back in pre-COVID days, but during the pandemic I decided it was time to get a bit closer to home and the rest of the family.
 
-### Links
+I'm now working for [Foodbomb](https://foodbomb.com.au) as a SSE, at the moment primarily on integrations and legacy migrations and upgrades.
 
-Here's a run-down of what I've been doing over the last few years here in [my linkedIn profile](https://www.linkedin.com/in/grant-ozolins-749bb313/).
+You can read more about this in [my linkedIn profile](https://www.linkedin.com/in/grant-ozolins-749bb313/).
 
-Also, I write music and play keyboards as a reasonably serious hobby.  Even though I like my day job a lot, once the music bug has bitten, you never really recover. [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz).
+### Other Things
+
+I studied music at University level, so I've a deep love for well-written interesting music, right across the spectrum from classical through jazz to electronic. I write music and play keyboards as a fairly serious hobby.  [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz). Right now I'm looking for the right band to play keyboards in!

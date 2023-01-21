@@ -17,3 +17,6 @@ You can read more about this in [my linkedIn profile](https://www.linkedin.com/i
 ### Other Things
 
 I studied music at University level, so I've a deep love for well-written interesting music, right across the spectrum from classical through jazz to electronic. I write music and play keyboards as a fairly serious hobby.  [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz). Right now I'm looking for the right band to play keyboards in!
+
+*Last updated: 22 Jan 2023*
+

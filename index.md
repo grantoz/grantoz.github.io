@@ -6,17 +6,17 @@ title: Welcome!
 
 ### About Me
 
-I'm a developer, system architect and sometimes musician that lives in Sydney, Australia.
+I'm Grant, a developer, system architect and keen musician that lives in Sydney, Australia.
 
-I've been building and fixing web systems for over 20 years now, particularly in e-commerce, recently as E-commerc Architect for [Made.com Designs](https://www.made.com) (now sadly now no more). Working at scale in an environment that combined both macro and micro services was fun and educational.  London was great too, back in pre-COVID days, but during the pandemic I decided it was time to get a bit closer to home and the rest of the family.
+I've been building and fixing web systems for quite some time now, recently as Ecommerce Architect for [Made.com Designs](https://www.made.com) (before they messed up their post-IPO finances and imploded). Working at scale in an environment that combined both macro and micro services was fun and educational.  London was great back in the pre-COVID days, but during the pandemic I decided it was time to get closer to home and family back in Oz.
 
-I'm now working for [Foodbomb](https://foodbomb.com.au) as a SSE, at the moment primarily on integrations and legacy migrations and upgrades.
+Right now I'm working with [Foodbomb](https://foodbomb.com.au) as a Senior Software Engineer, primarily on integrations and upgrading legacy systems to be more modern and emit webhooks and use events internally.
 
 You can read more about this in [my linkedIn profile](https://www.linkedin.com/in/grant-ozolins-749bb313/).
 
 ### Other Things
 
-I studied music at University level, so I've a deep love for well-written interesting music, right across the spectrum from classical through jazz to electronic. I write music and play keyboards as a fairly serious hobby.  [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz). Right now I'm looking for the right band to play keyboards in!
+I studied music up to university / conservatorium level and I've a deep love for well-written interesting music, right across the spectrum from classical through jazz to electronic. I write music and play keyboards as a fairly serious hobby.  [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz). 
 
-*Last updated: 22 Jan 2023*
+*Last updated: 13 September 2023*
 

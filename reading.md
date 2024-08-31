@@ -1,7 +1,7 @@
+---
 layout: post
-title: "Reading"
-date: 2024-09-01 07:30:00 +1000
-categories: reading books
+title: Recent Reading
+---
 
 # Recent Reading
 

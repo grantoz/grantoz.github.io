@@ -16,7 +16,6 @@ There's more about this in [my linkedIn profile](https://www.linkedin.com/in/gra
 
 ## Other Interests
 
-I studied music up to university / conservatorium level and I've a deep love for well-written interesting music, right across the spectrum from classical through jazz to electronic. I write music and play keyboards as a fairly serious hobby.  [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz). 
+I studied music up to university / conservatorium level and I've a deep love for well-written interesting music, right across the spectrum from classical through jazz to electronic. I write music and play keyboards as a fairly serious hobby.  [Here are some tracks that I produced on SoundCloud](https://soundcloud.com/grantoz).
 
 *Last updated: 27 June 2024*
-

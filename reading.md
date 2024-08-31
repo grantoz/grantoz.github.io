@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+permalink: /reading
 title: Recent Reading
 ---
 
